@@ -84,6 +84,7 @@
       - { name: kindle }
       - { name: keyboardcleantool }
       - { name: omnigraffle }
+      - { name: magicprefs }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
