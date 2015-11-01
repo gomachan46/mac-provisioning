@@ -85,6 +85,7 @@
       - { name: keyboardcleantool }
       - { name: omnigraffle }
       - { name: magicprefs }
+      - { name: sophos-anti-virus-home-edition }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
