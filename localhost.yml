@@ -70,7 +70,7 @@
       - { name: seashore }
       - { name: phpstorm }
       - { name: rubymine }
-      - { name: intellij-idea }
+      - { name: intellij-idea-ce }
       - { name: vagrant }
       - { name: virtualbox }
       - { name: moom }
