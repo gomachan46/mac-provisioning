@@ -86,6 +86,7 @@
       - { name: omnigraffle }
       - { name: magicprefs }
       - { name: sophos-anti-virus-home-edition }
+      - { name: amazon-music }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
