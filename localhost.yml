@@ -89,6 +89,7 @@
       - { name: magicprefs }
       - { name: sophos-anti-virus-home-edition }
       - { name: amazon-music }
+      - { name: yabumi }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
