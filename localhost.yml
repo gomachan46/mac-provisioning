@@ -75,7 +75,7 @@
       - { name: intellij-idea-ce }
       - { name: vagrant }
       - { name: virtualbox }
-      - { name: moom }
+      - { name: moom } # 無料版になってしまう
       - { name: boom }
       - { name: alfred }
       - { name: caffeine }
