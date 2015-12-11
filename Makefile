@@ -1,6 +1,8 @@
-setup:
+xcode:
 	xcode-select --install
-	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew:
+	# ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+setup:
 	brew doctor
 	brew update
 	brew install python
