@@ -56,6 +56,7 @@
       - { name: source-highlight }
       # - { name: phantomjs } # el capitanにまだ対応しておらずinstall失敗する
       - { name: upx } # see http://qiita.com/sato_ryu/items/227b00df1e2b5690a816
+      - { name: heroku-toolbelt }
     homebrew_cask_packages:
       - { name: iterm2 }
       - { name: firefox }
